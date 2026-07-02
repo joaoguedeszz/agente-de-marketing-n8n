@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__496e9307-2d68-45e8-b971-e8237f604a0c__ads_library_search",
+      "WebSearch"
+    ]
+  }
+}
